@@ -16,6 +16,6 @@
   ##
  
 <div> 
-  <a href = "mailto:mthws.henrique@hotmail.com"><img src="https://w7.pngwing.com/pngs/658/570/png-transparent-microsoft-outlook-outlook-com-microsoft-office-365-outlook-on-the-web-microsoft-blue-angle-text.png" target="_blank"></a>
+  <a href = "mailto:mthws.henrique@hotmail.com"><img src="https://png.pngtree.com/element_our/png/20181213/inbox-vector-icon-png_267453.jpg" target="_blank"></a>
   <a href="https://br.linkedin.com/in/matheus-henrique-de-oliveira-33333b229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
