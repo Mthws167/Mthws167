@@ -16,7 +16,7 @@
   <img align="center" alt="Mthws-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mthws-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mthws-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Mthws-pic" height="150" style="border-radius:90px;" src="https://instagram.fmgf1-1.fna.fbcdn.net/v/t51.2885-19/275633692_709505860210507_1689305447693488043_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmgf1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=-t0aDloZwucAX8q-yW_&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-Jw9A5-F3upVb6du45mABnkw_qfx9toveiIel1-2evcA&oe=6285AA57&_nc_sid=7bff83">
+  <img align="right" alt="Mthws-pic" height="150" style="border-radius:50%;" src="https://instagram.fmgf1-1.fna.fbcdn.net/v/t51.2885-19/275633692_709505860210507_1689305447693488043_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fmgf1-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=-t0aDloZwucAX8q-yW_&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-Jw9A5-F3upVb6du45mABnkw_qfx9toveiIel1-2evcA&oe=6285AA57&_nc_sid=7bff83">
 </div>
   
   ##
