@@ -1,6 +1,6 @@
 ## Bem-vindo!
 <div>
-  <p>E-mail:<li>mthws.henrique@hotmail.com</li></p>
+  <a href=mailto:mthws.henrique@hotmail.com?subject="HTML link"></a>
 </div>
 <div align="center">
   <a href="https://github.com/Mthws167">
