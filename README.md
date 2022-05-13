@@ -16,6 +16,6 @@
   ##
  
 <div> 
-  <a href = "mailto:mthws.henrique@hotmail.com"><img src="https://.pngtree.com/so/icône'>icône png de .pngtree.com" target="_blank"></a>
+  <a href = "mailto:mthws.henrique@hotmail.com"><img src="<a href='https://.pngtree.com/so/icône'>icône png de .pngtree.com/</a>" target="_blank"></a>
   <a href="https://br.linkedin.com/in/matheus-henrique-de-oliveira-33333b229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
