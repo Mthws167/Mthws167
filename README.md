@@ -1,7 +1,7 @@
 
 # Matheus Henrique de Oliveira
 <ul>
-  <li><a>Software Engineering student at College IFPR(Instituto Federal do Paraná de Paranavaí)</a></li>
+  <li><a>Software Engineering student at College <b>IFPR</b>(Instituto Federal do Paraná de Paranavaí)</a></li>
   <li><a>Atualmente atuo como desenvolvovedor estagiário na NextAge</a></li>
 </ul>
 <div align="center">
