@@ -2,7 +2,7 @@
 # Matheus Henrique de Oliveira
 <ul>
   <li><a>Software Engineering student at College <b>IFPR</b>(Instituto Federal do Paraná de Paranavaí)</a></li>
-  <li><a>Atuo como desenvolvedor estagiário na NextAge</a></li>
+  <li><a>I work as a trainee developer at NextAge</a></li>
 </ul>
 <div align="center">
   <a href="https://github.com/Mthws167"></a>
