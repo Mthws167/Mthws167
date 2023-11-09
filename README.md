@@ -20,6 +20,9 @@
   <img align="center" alt="Mthws-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="Mthws-Spring" heigth="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Mthws-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Mthws-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Mthws-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
+  <img align="center" alt="Mthws-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 </div>
   
   ##
