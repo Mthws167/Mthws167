@@ -1,7 +1,7 @@
 
 # Matheus Henrique de Oliveira
 <ul>
-  <li><a>Software Engineering student at College <b>IFPR</b>(Instituto Federal do Paraná de Paranavaí)</a></li>
+  <li><a>Software Engineering - <b>IFPR</b></a></li>
   <li><a>Work as a fullstack developer at NextAge</a></li>
 </ul>
 <div align="center">
